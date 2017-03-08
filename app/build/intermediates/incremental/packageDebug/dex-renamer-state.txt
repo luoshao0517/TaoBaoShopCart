@@ -1,0 +1,7 @@
+#Wed Mar 08 15:49:48 CST 2017
+base.0=C\:\\Users\\luodacheng\\Desktop\\TaoBaoShopCart\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_6be1c972c20e24ad4d658d73e3bf7357e678a687
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\luodacheng\\Desktop\\TaoBaoShopCart\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a2e7710a94c1d5371b9f5f97149084ea13f6f8f9\\classes.dex
+base.1=C\:\\Users\\luodacheng\\Desktop\\TaoBaoShopCart\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a2e7710a94c1d5371b9f5f97149084ea13f6f8f9
+file.0=C\:\\Users\\luodacheng\\Desktop\\TaoBaoShopCart\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_6be1c972c20e24ad4d658d73e3bf7357e678a687\\classes.dex

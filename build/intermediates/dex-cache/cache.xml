@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\luodacheng\Desktop\TaoBaoShopCart\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1b35d89126d7ceb2bb1d11e7deaa91ab59a9a836">
+        <dex dex="C:\Users\luodacheng\Desktop\TaoBaoShopCart\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_6be1c972c20e24ad4d658d73e3bf7357e678a687\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\luodacheng\Desktop\TaoBao_ShopCart1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ce3f52947bd4a1797792fd532a407e381b0cd3a2">
+        <dex dex="C:\Users\luodacheng\Desktop\TaoBao_ShopCart1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_7d28dead32a75ec819a594662e78dcb52201aa36\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\luodacheng\Desktop\TaoBaoShopCart\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\luodacheng\Desktop\TaoBaoShopCart\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_a2e7710a94c1d5371b9f5f97149084ea13f6f8f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\luodacheng\Desktop\TaoBao_ShopCart1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\luodacheng\Desktop\TaoBao_ShopCart1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_d8311a9ec68c71ec0a757c6bfc918733c7bd14e4\classes.dex" />
+    </item>
+
+</items>
